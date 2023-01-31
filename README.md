@@ -3,7 +3,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt=" " src="">
+<img width="1266" alt=" " src="https://github.com/Roshni-Mandal/Personal-Portfolio/blob/main/Screenshot/Screenshot.png">
 
 Built using:
 
@@ -39,8 +39,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Contributors:
 
-1.[ Roshni Mandal](https://github.com/Roshni-Mandal)
-2.[ Niraj Kumar Gupta](https://github.com/Niraj-Gupta26/)\
+1.[ Roshni Mandal](https://github.com/Roshni-Mandal)\
+2.[ Niraj Kumar Gupta](https://github.com/Niraj-Gupta26/)
 
 
 ## Project link:
