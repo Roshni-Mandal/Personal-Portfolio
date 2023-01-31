@@ -40,7 +40,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Contributors:
 
 1.[ Roshni Mandal](https://github.com/Roshni-Mandal)\
-2.[ Niraj Kumar Gupta](https://github.com/Niraj-Gupta26/)
+2.[ Niraj Kumar Gupta](https://github.com/Niraj-Kumar-Gupta/)
 
 
 ## Project link:
